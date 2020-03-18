@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://riasaunah.sql-processor.eu/sitemap.xml
